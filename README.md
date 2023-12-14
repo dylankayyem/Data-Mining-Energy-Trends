@@ -1,4 +1,3 @@
-# README.md
 ###### Last Updated: 12/14/2023 by Dylan Kayyem
 
 ## Project Title:
