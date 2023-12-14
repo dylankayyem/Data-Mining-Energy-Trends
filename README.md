@@ -40,4 +40,5 @@ a# README.md
  
 ## Link to final project paper:
 
-	?
+	https://docs.google.com/document/d/e/2PACX-1vQUkS12GpTPb_TrHcgUZ9Cc7qONEb0XkBYjT8OnA-GvlzUFL6zvaAKjawO9XjJBlAVSKb75wJdTvnFS/pub 
+
