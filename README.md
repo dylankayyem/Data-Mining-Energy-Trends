@@ -2,9 +2,9 @@
 
 ## Project Title:
 
-	Exploring Global Energy7 Transition Trends
+	Exploring Global Energy Transition Trends
 	
-## Team Members:
+## Group 6 Team Members:
 
 	Dylan Kayyem
 
@@ -35,7 +35,8 @@
 
 ## Link to the video demonstration:
 
-	?
+	https://cuboulder.zoom.us/rec/share/_3McIXNhpRiNSRGfNDsDNkXAG3hLtOWDNI6fOwNjhU4-fhziGzjCOe08juvvDz0.AfUrr55WMdl9aUsO?startTime=1702594372000
+	Passcode: n2$6=Pmm
  
 ## Link to final project paper:
 
